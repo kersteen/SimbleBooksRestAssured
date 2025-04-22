@@ -1,0 +1,1 @@
+{"uuid":"95194f44-08c0-4741-b4d2-b574c22cd7c8","name":"TC02_GetStatus","children":["a30b07fb-5914-4d91-a4a4-9ab352c41db2"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1745282902875,"stop":1745282906004}],"afters":[],"start":1745282902611,"stop":1745282913343}

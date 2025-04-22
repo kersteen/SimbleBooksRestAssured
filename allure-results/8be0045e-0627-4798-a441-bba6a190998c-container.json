@@ -1,0 +1,1 @@
+{"uuid":"8be0045e-0627-4798-a441-bba6a190998c","name":"TC04_GetBookDetailsBookId","children":["2d766996-3455-4045-b11c-6d9406b03325"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1745287585251,"stop":1745287591742}],"afters":[],"start":1745287584696,"stop":1745287614823}

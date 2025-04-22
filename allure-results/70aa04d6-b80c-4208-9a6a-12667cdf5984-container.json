@@ -1,0 +1,1 @@
+{"uuid":"70aa04d6-b80c-4208-9a6a-12667cdf5984","name":"TC06_GetOrders","children":["2188170b-3283-4704-a505-80a6221b0d02"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1745284946836,"stop":1745284950473}],"afters":[],"start":1745284946368,"stop":1745284964450}

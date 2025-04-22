@@ -1,0 +1,1 @@
+{"uuid":"04b6fc57-2f39-4c25-aa94-2bef05f5f5b2","name":"TC01_PostApiRegisterClients","children":["c9784ea1-3111-4ff3-8fa4-c8e4c9711130"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1745282864161,"stop":1745282867923}],"afters":[],"start":1745282863759,"stop":1745282884234}

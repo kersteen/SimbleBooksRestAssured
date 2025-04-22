@@ -1,0 +1,1 @@
+{"uuid":"3f681bb5-03c3-46ed-b969-03db75d2adf2","name":"TC07_PatchOrder","children":["d88f3eb2-5e8d-43d3-8269-0a8af03da822"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1745286170510,"stop":1745286174140}],"afters":[],"start":1745286170122,"stop":1745286185914}

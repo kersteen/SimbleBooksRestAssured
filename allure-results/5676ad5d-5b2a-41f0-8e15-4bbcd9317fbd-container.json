@@ -1,0 +1,1 @@
+{"uuid":"5676ad5d-5b2a-41f0-8e15-4bbcd9317fbd","name":"TC08_DeleteOrder","children":["ffdc3efe-4ac4-4a07-a727-d5550da869a8"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1745288225654,"stop":1745288232700}],"afters":[],"start":1745288225284,"stop":1745288245726}
